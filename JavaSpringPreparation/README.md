@@ -6,3 +6,9 @@
 - login: `postgres:123`
 - port `5433`
 - create database `create database test;`
+
+# Connect to DB
+- user: postgres
+- pass: 123
+- url: jdbc:postgresql://localhost:5433/postgres
+- port: 5433
